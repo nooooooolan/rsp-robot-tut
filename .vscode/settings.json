@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/E1517814/OneDrive - Emerson/Documents/GitHub/my-rsb-robot/rsp-robot-tut/pt2/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
